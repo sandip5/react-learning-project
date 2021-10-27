@@ -1,6 +1,6 @@
 node_modules
-.eslintcache
-.gitignore
+*.eslintcache
+*.gitignore
 package-lock.json
 DS_STORE
 scripts/flow/*/.flowconfig
