@@ -46,7 +46,6 @@ const App = () => {
 
     return (
         <div>
-            <h2>Practice Project</h2>
             <NewExpense onAddExpense={addExpenseHandler} />
             <Expenses items={expenses} />
         </div>
